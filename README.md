@@ -18,16 +18,17 @@ To start this program you'll need to clone and run this server to your machine: 
 
 Then:
 
-Clone this code to your machine
-Run npm install
-Run npm start
-Login:
-   email: dev@dev.com
-   password: developer
+Clone this code to your machine  
+Run npm install  
+Run npm start  
+
+Login:  
+   email: dev@dev.com  
+   password: developer  
 
 
 ## Stack
 
-Languages: HTML5, CSS3, JS(ES6+)
-Libraries: React, Bootstrap
-Package Manager: npm
+Languages: HTML5, CSS3, JS(ES6+)  
+Libraries: React, Bootstrap  
+Package Manager: npm  
