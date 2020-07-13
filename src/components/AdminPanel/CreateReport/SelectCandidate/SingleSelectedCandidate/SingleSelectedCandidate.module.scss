@@ -1,0 +1,15 @@
+.candidate {
+  border: 1px solid lightgrey;
+  max-width: 49%;
+  padding: 5px;
+  box-shadow: 0px 0px 3px 0px lightgrey;
+  margin-bottom: 10px;
+
+  &:active {
+    background-color: #20405131;
+  }
+
+  &:hover {
+    background-color: #20405131;
+  }
+}

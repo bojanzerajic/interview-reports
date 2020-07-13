@@ -1,0 +1,40 @@
+.ReportModal__wrapper p {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.ReportModal__wrapper h1 {
+  font-size: 26px;
+  margin-bottom: 30px;
+}
+
+.ReportModal__notes p:first-child {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: darkgray;
+}
+
+.ReportModal__notes p {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.ReportModal__sidebar {
+  border-right: 1px solid lightgrey;
+}
+
+.ReportModal__sidebar p {
+  color: darkgray;
+}
+
+.ReactModal__Content.ReactModal__Content--after-open {
+  width: 70%;
+  height: 60%;
+  top: 20% !important;
+  margin: 0 auto;
+}
+
+.ReactModal__Overlay.ReactModal__Overlay--after-open {
+  background-color: #204051bf !important;
+}

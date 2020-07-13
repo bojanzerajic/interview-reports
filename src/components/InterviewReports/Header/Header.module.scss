@@ -1,0 +1,32 @@
+.wrapper {
+  background-color: #204051;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border: 0;
+  padding: 0px 50px;
+  border-radius: 5px;
+  background-color: #84a9ac;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+
+  &:hover {
+    background-color: #84a9acc4;
+    text-decoration: none;
+    color: #fff;
+  }
+}
+.buttonWrap {
+  display: flex;
+  flex-direction: row;
+  width: 21%;
+  justify-content: space-around;
+}

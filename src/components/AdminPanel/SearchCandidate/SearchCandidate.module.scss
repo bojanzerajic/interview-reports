@@ -1,0 +1,25 @@
+.wrapper {
+  position: relative;
+}
+.input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  width: 100%;
+  outline-color: #204051;
+}
+.empty_div {
+  display: flex;
+  align-items: center;
+}
+
+.span {
+  position: absolute;
+  bottom: 20px;
+  left: 0px;
+  padding: 3px 10px;
+  border-right: 1px solid;
+  color: #fff;
+  background-color: #204051;
+  border-radius: 2px;
+}

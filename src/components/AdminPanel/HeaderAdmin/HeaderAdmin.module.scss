@@ -1,0 +1,36 @@
+.wrapper {
+  background-color: #204051;
+  padding: 10px 50px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.main_title {
+  display: flex;
+  align-items: center;
+}
+
+.btn_wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  border: 0;
+  padding: 20px 0px;
+  border-radius: 5px;
+  background-color: #84a9ac;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+
+  &:hover {
+    background-color: #84a9acc4;
+    text-decoration: none;
+    color: #fff;
+  }
+}
