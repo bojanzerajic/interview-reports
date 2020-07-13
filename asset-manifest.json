@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/interview-reports/static/css/main.3132535e.chunk.css",
+    "main.js": "/interview-reports/static/js/main.3b76d1a5.chunk.js",
+    "main.js.map": "/interview-reports/static/js/main.3b76d1a5.chunk.js.map",
+    "runtime-main.js": "/interview-reports/static/js/runtime-main.750a141e.js",
+    "runtime-main.js.map": "/interview-reports/static/js/runtime-main.750a141e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/interview-reports/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.552fa101.chunk.js": "/interview-reports/static/js/2.552fa101.chunk.js",
+    "static/js/2.552fa101.chunk.js.map": "/interview-reports/static/js/2.552fa101.chunk.js.map",
+    "index.html": "/interview-reports/index.html",
+    "precache-manifest.b2943e1f0414b1ece1c4c538a704e8e6.js": "/interview-reports/precache-manifest.b2943e1f0414b1ece1c4c538a704e8e6.js",
+    "service-worker.js": "/interview-reports/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/interview-reports/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3132535e.chunk.css.map": "/interview-reports/static/css/main.3132535e.chunk.css.map",
+    "static/js/2.552fa101.chunk.js.LICENSE.txt": "/interview-reports/static/js/2.552fa101.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.750a141e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.552fa101.chunk.js",
+    "static/css/main.3132535e.chunk.css",
+    "static/js/main.3b76d1a5.chunk.js"
+  ]
+}
